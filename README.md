@@ -2,7 +2,8 @@
 
 
 RESTful API Lottery thailand
-https://lottery-th.herokuapp.com/loto
+
+>>  https://lottery-th.herokuapp.com/loto
 
 เป็น API ผลสลากกินแบ่งรัฐบาล(หวย)ไทย 
 เมื่อ request จะได้รับผลสลากงวดล่าสุด ในรูปแบบของ JSON
